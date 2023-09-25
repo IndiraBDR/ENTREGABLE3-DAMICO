@@ -55,40 +55,40 @@
   },
 
   {
-    "title": "titulo6",
-    "description": "descripcion6",
+    "title": "titulo7",
+    "description": "descripcion7",
     "price": 25,
-    "thumbnail": "xxxx6",
+    "thumbnail": "xxxx7",
     "code": "abc123",
     "stock": 3,
     "id": 7
   },
 
   {
-    "title": "titulo6",
-    "description": "descripcion6",
+    "title": "titulo8",
+    "description": "descripcion8",
     "price": 25,
-    "thumbnail": "xxxx6",
+    "thumbnail": "xxxx8",
     "code": "abc123",
     "stock": 3,
     "id": 8
   },
 
   {
-    "title": "titulo6",
-    "description": "descripcion6",
+    "title": "titulo9",
+    "description": "descripcion9",
     "price": 25,
-    "thumbnail": "xxxx6",
+    "thumbnail": "xxxx9",
     "code": "abc123",
     "stock": 3,
     "id": 9
   },
 
   {
-    "title": "titulo6",
-    "description": "descripcion6",
+    "title": "titulo10",
+    "description": "descripcion10",
     "price": 25,
-    "thumbnail": "xxxx6",
+    "thumbnail": "xxxx10",
     "code": "abc123",
     "stock": 3,
     "id": 10
