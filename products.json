@@ -1,0 +1,96 @@
+[
+  {
+    "title": "titulo1",
+    "description": "descripcion1",
+    "price": 25,
+    "thumbnail": "xxxx1",
+    "code": "abc123",
+    "stock": 3,
+    "id": 1
+  },
+  {
+    "title": "titulo2",
+    "description": "descripcion2",
+    "price": 25,
+    "thumbnail": "xxxx2",
+    "code": "abc123",
+    "stock": 3,
+    "id": 2
+  },
+  {
+    "title": "titulo3",
+    "description": "descripcion3",
+    "price": 25,
+    "thumbnail": "xxxx3",
+    "code": "abc123",
+    "stock": 3,
+    "id": 3
+  },
+  {
+    "title": "titulo4",
+    "description": "descripcion4",
+    "price": 25,
+    "thumbnail": "xxxx4",
+    "code": "abc123",
+    "stock": 3,
+    "id": 4
+  },
+  {
+    "title": "titulo5",
+    "description": "descripcion5",
+    "price": 25,
+    "thumbnail": "xxxx5",
+    "code": "abc123",
+    "stock": 3,
+    "id": 5
+  },
+  {
+    "title": "titulo6",
+    "description": "descripcion6",
+    "price": 25,
+    "thumbnail": "xxxx6",
+    "code": "abc123",
+    "stock": 3,
+    "id": 6
+  },
+
+  {
+    "title": "titulo6",
+    "description": "descripcion6",
+    "price": 25,
+    "thumbnail": "xxxx6",
+    "code": "abc123",
+    "stock": 3,
+    "id": 7
+  },
+
+  {
+    "title": "titulo6",
+    "description": "descripcion6",
+    "price": 25,
+    "thumbnail": "xxxx6",
+    "code": "abc123",
+    "stock": 3,
+    "id": 8
+  },
+
+  {
+    "title": "titulo6",
+    "description": "descripcion6",
+    "price": 25,
+    "thumbnail": "xxxx6",
+    "code": "abc123",
+    "stock": 3,
+    "id": 9
+  },
+
+  {
+    "title": "titulo6",
+    "description": "descripcion6",
+    "price": 25,
+    "thumbnail": "xxxx6",
+    "code": "abc123",
+    "stock": 3,
+    "id": 10
+  }
+]
